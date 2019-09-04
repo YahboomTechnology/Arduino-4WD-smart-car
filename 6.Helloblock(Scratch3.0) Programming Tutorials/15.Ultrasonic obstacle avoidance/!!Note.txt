@@ -1,0 +1,3 @@
+! ! ! Note: 
+It is normal for the ultrasonic module to measure the distance with a certain error.
+You can modify the time or speed parameter in the program according to your actual situation.

@@ -1,0 +1,2 @@
+! ! ! Note:
+Before the experiment, we need to adjust the sensitivity of the Tracking sensor. Please refer to the manual for the details.

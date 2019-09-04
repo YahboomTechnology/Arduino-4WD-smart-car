@@ -1,0 +1,4 @@
+ ! Note: 
+1. It is normal for the ultrasonic module to measure the distance with a certain error.
+2. You can modify the time or speed parameter in the program according to your actual situation.
+3. Before installing the ultrasonic module, we need to turn on the power switch of the car,make the servo initialize to 90бу, then we can install the ultrasonic module on the servo.

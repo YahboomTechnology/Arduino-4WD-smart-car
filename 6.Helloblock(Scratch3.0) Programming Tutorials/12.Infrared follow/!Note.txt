@@ -1,0 +1,3 @@
+! ! ! Note:
+In order to avoid the interference of sunlight on the line sensor, this experiment needs to be carried out indoors.
+Before the experiment, we need to adjust the sensitivity of the Tracking sensor. Please refer to the manual for the details.
