@@ -931,7 +931,7 @@ void Ir_flow_Mode()
   RightSensorValue = digitalRead(FollowSensorRight);
   CarSpeedControl = 120;
 
-  printf("$4WD,CSB120,PV8.3,GS000,LF0000,HW%d%d,GM00", LeftSensorValue, RightSensorValue);
+  //printf("$4WD,CSB120,PV8.3,GS000,LF0000,HW%d%d,GM00", LeftSensorValue, RightSensorValue);
   if (LeftSensorValue == LOW && RightSensorValue == LOW)
   {
     run();       
